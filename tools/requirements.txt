@@ -1,0 +1,13 @@
+# Python 工具依赖
+
+# Excel 批量处理
+pandas>=2.0.0
+openpyxl>=3.1.0
+xlrd>=2.0.0
+
+# 网页截图
+playwright>=1.40.0
+
+# 安装说明：
+# pip install -r requirements.txt
+# playwright install  # 安装浏览器
